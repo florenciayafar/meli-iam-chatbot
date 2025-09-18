@@ -1,0 +1,48 @@
+# MeLi IAM Challenge - Docker Compose
+version: '3.8'
+
+services:
+  meli-iam-bot:
+    build: .
+    container_name: meli-iam-assistant
+    ports:
+      - "8503:8503"
+    volumes:
+      # Persist ChromaDB data
+      - ./data/chroma:/app/data/chroma
+      # Keep processed data
+      - ./data/processed:/app/data/processed
+    environment:
+      - PYTHONPATH=/app
+      - LLM_MODEL=llama3:latest
+      - STREAMLIT_SERVER_PORT=8503
+      - STREAMLIT_SERVER_ADDRESS=0.0.0.0
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8503"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Optional: API service (if needed separately)
+  meli-iam-api:
+    build: .
+    container_name: meli-iam-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONPATH=/app
+      - LLM_MODEL=llama3:latest
+    command: ["python3", "-m", "uvicorn", "src.api.main:app", "--host", "0.0.0.0", "--port", "8000"]
+    restart: unless-stopped
+    profiles:
+      - api-only
+    depends_on:
+      - meli-iam-bot
+
+networks:
+  default:
+    name: meli-iam-network

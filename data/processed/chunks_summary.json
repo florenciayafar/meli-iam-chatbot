@@ -1,0 +1,4513 @@
+[
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_0",
+    "content": "Authentication Methods   IDPro, Anna Cherkasov, Bailey Bercik To comment on this article, please visit our GitHub repository and submit an issue . Table of Contents ABSTRACT .............................",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 0,
+      "page": 1,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 975
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_1",
+    "content": ". ................................ ................................ ............................  MULTI -FACTOR AUTHENTICATION ................................ ................................ ..........",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 1,
+      "page": 1,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 992
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_2",
+    "content": ". ......................  FEDERATION AND SSO AS AUTHENTICATION STRATEGIES ................................ ................................ ...  CONCLUSION ................................ ..............",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 2,
+      "page": 1,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 914
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_3",
+    "content": ". There are several different methods of authentication, and o rganizations can blend combinations of these methods for different business scenarios and user populations. Each method has its own secur...",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 3,
+      "page": 1,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 368
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_4",
+    "content": "Flanagan (Editor)  Terminology in the IDPro Body of Knowledge  IDPro Body of Knowledge Term Source Definition Authentication Epping  Authentication and Authorization (v)  IDPro Body of Knowledge Authe...",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 4,
+      "page": 2,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 975
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_5",
+    "content": ". There is an option to use biometric verification such as a fingerprint for authentication. Passwordless Glazer  Introduction to Customer Identity and Access Management  IDPro Body of Knowledge Passw...",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 5,
+      "page": 2,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 802
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_6",
+    "content": "beneficial for large organizations with many employees. One Time Passcode (OTP): software or hardware keys Cybersecurity Glossary  Yubico A code sent to a user to prove something they have. OTP codes ...",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 6,
+      "page": 3,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 856
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_7",
+    "content": ". Examples include facial recogn ition, fingerprints , keyboard biometrics, and more . FIDO Security Keys FIDO - FIDO Alliance User Authentication Specifications Overview - FIDO Alliance FIDO Security...",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 7,
+      "page": 3,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 263
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_8",
+    "content": "Passkeys Passkeys - FIDO Alliance Passkeys a re a passwordless authentication method that leverage cryptographic key pairs . Passkeys can be synced between devices or device - bound. Single Factor Aut...",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 8,
+      "page": 4,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 992
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_9",
+    "content": ". Passwords can easily be shared and reshared outside scope of the original identity Multi -Factor Authentication The combination of multiple factors is referred to as multi -factor authentication (MF...",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 9,
+      "page": 4,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 688
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_10",
+    "content": "Common MFA Methods and Their Risks For example, SMS text message s or phone call s are popular MFA methods because they leverage a phone and a code passed along to the user via this medium proving it ...",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 10,
+      "page": 5,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 835
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_11",
+    "content": ". In most cases, the bad actor would have to mislead the user into accepting a n MFA prompt for their sign in or entering their OTP code into a bad actor -run website order to compromise the identity ...",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 11,
+      "page": 5,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 952
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_12",
+    "content": ". Passkeys Passkeys are a form of passwordless authentication that use public key cryptography. They leverage cryptographic key pairs with the website the user is signing into and the users device. Si...",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 12,
+      "page": 5,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 877
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_13",
+    "content": ". This not only imp roves the user experience but also centralizes authentication controls, making it easier to enforce consistent security policies. Protocols such as SAML (Security Assertion Markup ...",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 13,
+      "page": 5,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 309
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_14",
+    "content": "enterprise environments. While each protocol functions differently, the shared benefit is that authentication is handled externally and trust is established between the identity provider and the relyi...",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 14,
+      "page": 6,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 930
+  },
+  {
+    "chunk_id": "TiposDeAutenticacion.pdf_15",
+    "content": ". Conclusion This document covers the concept of authentication methods , bringing together information found across several IDPro Body of Knowledge articles . Various forms of authentication methods ...",
+    "metadata": {
+      "source": "TiposDeAutenticacion.pdf",
+      "topic": "Tipos de Autenticación",
+      "chunk_index": 15,
+      "page": 6,
+      "total_chunks": 16,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 476
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_0",
+    "content": "User Provisioning in the Enterprise By Ian Glazer, Lori Robinson, and Mat Hamlin   ,  IDPro, Ian Glazer, Lori Robinson, Mat Hamlin Table of Contents ABSTRACT ................................ ............",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 0,
+      "page": 1,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 956
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_1",
+    "content": ". ................................ ................................ ................................ ................................ ........ BUSINESS DRIVERS FOR AUTOMATED USER PROVISIONING ...........",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 1,
+      "page": 1,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 987
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_2",
+    "content": ". ................................ ... Join................................ ................................ ................................ ................................ ............................",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 2,
+      "page": 1,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 987
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_3",
+    "content": ". ................................ ................................ ................................ ..................  Birthright ................................ ................................ .....",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 3,
+      "page": 1,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 950
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_4",
+    "content": ".  Workflow Approvals ................................ ................................ ................................ ................................ ................................ ................",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 4,
+      "page": 1,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 981
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_5",
+    "content": ". ................................ .........  THE ROLE OF STANDARDS ................................ ................................ ................................ ................................ ...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 5,
+      "page": 1,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 890
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_6",
+    "content": "Abstract User provisioning is the means by which user accounts are created and maintained in a system (e.g., database, SaaS app, operating system, etc.). When we say that a user - provisioning system ...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 6,
+      "page": 2,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 926
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_7",
+    "content": ". Introduction Creating and managing user accounts is the bedrock of any IAM system. The process is generally referred to as user provisioning and is used to establish the entitlements a user is given...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 7,
+      "page": 2,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 993
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_8",
+    "content": ".  Entitlement catalog: A database of entitlements and their related metadata. The catalog includes an index of entitlement data pulled from business systems, applications, and platforms , as well as ...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 8,
+      "page": 2,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 722
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_9",
+    "content": "User provisioning : the means by which user accounts are created , maintained , and deactivateddeleted in a system according to defined policies. What is User Provisioning? User provisioning is settin...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 9,
+      "page": 3,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 908
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_10",
+    "content": ". Provisioning systems detect changes in authoritative systems of record (such as a Human Resources databaserepository) and update the identity record accordingly. User account provisioning: As the na...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 10,
+      "page": 3,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 957
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_11",
+    "content": ". Workflow: Provisioning systems employ workflow tools that allow for the automation of provisioning processes and approval workflows. Using automated approval workflows, business stakeholders can val...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 11,
+      "page": 3,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 838
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_12",
+    "content": "referred to as Identity Governance and Administration (IGA). This document focuses exclusively on user -provisioning functionality and does not include identity governance information. Similarly, pass...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 12,
+      "page": 4,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 955
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_13",
+    "content": ". User -provisioning systems automate the user account management process, reducing administrative overhead and improving time to productivity, resulting in operational efficiency.  Security: Manual p...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 13,
+      "page": 4,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 866
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_14",
+    "content": ". User -provisioning systems enforce policy -based access controls and allow organizations to demonstrate the efficacy of these controls with reporting and attestation capabilities. User Provisioning ...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 14,
+      "page": 4,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 424
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_15",
+    "content": "Figure : illustrates the standard architectural components of a user -provisioning ecosystem. Authoritative source (s): The system of record (SOR) for identity data. The authoritative system publishes...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 15,
+      "page": 5,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 858
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_16",
+    "content": ". Connectors: The integration layer between the provisioning system and authoritative and target systems. There are various types of connectors: proprietary (application -specific connectors that comm...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 16,
+      "page": 5,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 675
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_17",
+    "content": "Account correlation rules: correlate s or match es disparate user accounts (in target or authoritative systems) with a single identity record and ensure that duplicate identities for a single personen...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 17,
+      "page": 6,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 804
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_18",
+    "content": ".  Workflow engine: orchestrate s the provisioning based on business processing logic and enables access request, approval, and review workflows.  Reconciliation engine: discover s user accounts creat...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 18,
+      "page": 6,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 973
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_19",
+    "content": ". Entitlement catalog: A database of entitlements and their related metadata. The catalog includes an index of entitlement data pulled from business systems, applications, and platforms. The entitleme...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 19,
+      "page": 6,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 969
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_20",
+    "content": ". End-user and delegated administration interfaces are used for access requests, approval workflows, reporting, profile updates, etc. Provisioning systems typically include web -based interfaces that ...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 20,
+      "page": 6,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 350
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_21",
+    "content": "Given their highly connected and interactive nature, user -provisioning systems must be open and extensible. The provisioning provider should provide open APIs, no or low code workflows, and generic c...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 21,
+      "page": 7,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 577
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_22",
+    "content": ". These processes reduce administrative overhead and improve security. That said, automated user account provisioning is a complex, multifaceted process that includes three distinct phases:  Event tri...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 22,
+      "page": 7,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 949
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_23",
+    "content": ".  A ticket being created in an IT Service Management (ITSM) or Help Desk ticketing system .  A person directly interacting with the provisioning system to request a change to a user account . There a...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 23,
+      "page": 7,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 743
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_24",
+    "content": "purest sense, Join events are meant to create a net new identity and net new user accounts in IT systems.i Move When a person changes roles with an enterprise, she likely needs access to new business ...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 24,
+      "page": 8,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 850
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_25",
+    "content": ". Another example is when a contractors project concludes and the contract ends. The story is the same; a Leave event triggers the user -provisioning system to remove their access. User -provisioning ...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 25,
+      "page": 8,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 937
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_26",
+    "content": ". The user or a delegated administrator updates the user profile or makes an access change request via the self -service interface.  ManualTicket: In some instances, an organization may use a ticketin...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 26,
+      "page": 8,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 990
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_27",
+    "content": ". This reconciliation is accomplished by gathering and comparing all user data on the target system (full reconciliation) or by processing known changes to user access based on a changelog or other ti...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 27,
+      "page": 8,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 338
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_28",
+    "content": "policies. The result of reconciliation could be to synchronize changes from the target system to other systems, or it could be to roll back any locally applied changes that occurred outside of the use...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 28,
+      "page": 9,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 906
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_29",
+    "content": ". A policy can be thought of as a way to bind groups of people to groups of target systems with groups of related access (entitlements, privileges, etc.) In this way, there are always two components o...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 29,
+      "page": 9,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 921
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_30",
+    "content": ". Different kinds of policies use different combinations of Who and What to help identity practitioners govern access. While the overall topic of policies can be extremely broad, for the purposes of t...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 30,
+      "page": 9,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 895
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_31",
+    "content": "Interns need access to the Intern Team Excellence collaboration channel . Birthright policies can be thought of as defining access that is fundamental to certain kinds of people who have a relationshi...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 31,
+      "page": 10,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 952
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_32",
+    "content": ". Birthright policies are most commonly applied as part of a Join event and typically occur by assigning one or more business roles. Birthright events can also happen as a part of a Move event, specif...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 32,
+      "page": 10,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 946
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_33",
+    "content": ". Trying to do so would quickly lead to the management of tens of millions of combinations of people and privileges. User -provisioning systems attempt to bring order to this chaos by using roles to a...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 33,
+      "page": 10,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 896
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_34",
+    "content": ". A technical role is a way to aggregate the entitlements and privileges required within one or more target systems to perform a task. For example, the same retail bank could have a technical role cal...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 34,
+      "page": 10,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 775
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_35",
+    "content": "Segregation of Duties Stemming from the fallout of the WorldCom and Enron accounting scandals, the Sarbanes - Oxley Act had a profound impact on business practices.iv These impacts made their way to u...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 35,
+      "page": 11,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 886
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_36",
+    "content": ". Another application of a toxic combination policy is to prevent anyone who isnt a system administrator from having system admin or highly privileged entitlements. If roles are a way of describing wh...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 36,
+      "page": 11,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 925
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_37",
+    "content": ". So how does the remaining  - of access get provisioned? The answer is self -service access request and approval workflows. Workflow approvals are used when a human needs to make a policy decision. I...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 37,
+      "page": 11,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 959
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_38",
+    "content": ". How the necessary changes are made in the target system is the act of provisioning. Provisioning can be accomplished in two primary ways:  Automated  Manual Automated Automated user account provisio...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 38,
+      "page": 11,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 340
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_39",
+    "content": "provisioning process, the target system must provide a user management API or other means for the user -provisioning solution to systematically create, manage, and deactivatedelete user accounts. Auto...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 39,
+      "page": 12,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 920
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_40",
+    "content": ". The information required could be sent via email or work ticket. Manual provisioning introduces humans into a critical step of user provisioning, creating two specific risks. First, the person who m...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 40,
+      "page": 12,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 931
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_41",
+    "content": ". It is fair to ask why manual provisioning is needed or wanted, given such risks. Manual provisioning is needed because not all target systems have APIs to which automatic provisioning connectors can...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 41,
+      "page": 12,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 824
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_42",
+    "content": ". Manual provisioning is wanted because automation isnt worth the effort. Consider an application with very few users, entitlements, or changes required, or all three. An identity team may decide that...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 42,
+      "page": 12,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 626
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_43",
+    "content": "single system in the enterprise because, eventually, the costs to maintain connectors are simply not worth it. The Role of Standards The identity industry recognized that the proliferation of propriet...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 43,
+      "page": 13,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 992
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_44",
+    "content": ". For a user provisioning standard to be considered successful, it requires adoption from both user -provisioning system providers and application vendors. This it takes two  challenge had thwarted ma...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 44,
+      "page": 13,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 958
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_45",
+    "content": ". In that time, they have garnered a reputation for being difficult and expensive to deploy, and many organizations have found it challenging to realize a return on investment. Why? User provisioning ...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 45,
+      "page": 13,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 985
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_46",
+    "content": "Another aspect that can be difficult is data quality issues in the SOR. Ideally, there is one authoritative SOR, but this is not always the case. Data collisions may happen when information is coming ...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 46,
+      "page": 14,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 965
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_47",
+    "content": ". The line of business in partnership with audit, legal, governance, risk management and compliance (GRC), etc., own access decisions. The effort to collect this data for provisioning policy and role ...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 47,
+      "page": 14,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 877
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_48",
+    "content": ". The Next Generation, Hybrid -Approach to Provisioning While user -provisioning technologies have been around for quite some time, user - provisioning technologies were developed at a time when the I...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 48,
+      "page": 14,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 995
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_49",
+    "content": "Modern security models that include remote access, cloud computing, and zero -trust security principles require a new approach to user provisioning: a just -in-time (JIT), least privilege approach. Th...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 49,
+      "page": 15,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 934
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_50",
+    "content": ". Author Bios Ian Glazer Ian Glazer is the founder and president of Weave Identity  an advisory services firm. Prior to founding Weave, Ian was the Senior Vice President for Identity Product Managemen...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 50,
+      "page": 15,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 978
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_51",
+    "content": "Lori Robinson is the Vice President of Enterprise Identity Product Management at Salesforce where leads a team responsible for Salesforces enterprise identity management program. Before joining Salesf...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 51,
+      "page": 16,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 925
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_52",
+    "content": ". His responsibilities include leading the product management team, product strategy , and innovation for the Identity Services on the Salesforce core platform. Prior to Salesforce, he served in multi...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 52,
+      "page": 16,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 356
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_53",
+    "content": "Change Log Date Change -- V published i More on Joiner, Mover, and Leaver is available in Cameron, A.  Grewe, O. () An Overview of the Digital Identity Lifecycle (v), IDPro Body of Knowledge (). doi: ...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 53,
+      "page": 17,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 959
+  },
+  {
+    "chunk_id": "UserProvisioning.pdf_54",
+    "content": ". v For the sake of transparency, one of the authors of this article contributed to the SPML v standard and apologizes for the mistakes he didnt know he was making at the time. vi For the sake of tran...",
+    "metadata": {
+      "source": "UserProvisioning.pdf",
+      "topic": "Aprovisionamiento de Usuarios",
+      "chunk_index": 54,
+      "page": 17,
+      "total_chunks": 55,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 306
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_0",
+    "content": "Token Lifetimes and Security in OAuth .: Best Practices and Emerging Trends By Heather Flanagan (Spherical Cow Consulting)   IDPro, Heather Flanagan To comment on this article, please visit our GitHub...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 0,
+      "page": 1,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 983
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_1",
+    "content": ". ................................ ................................ ...... DEFINING SHORT VERSUS LONG ................................ ................................ ...................................",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 1,
+      "page": 1,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 955
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_2",
+    "content": ".  Security of Refresh Tokens ................................ ................................ ................................ ................................ ................................ ........",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 2,
+      "page": 1,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 991
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_3",
+    "content": ". ................................ ................................ ................................ ..........................  TOKEN REPLAY VULNERABILITIES ................................ ............",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 3,
+      "page": 1,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 976
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_4",
+    "content": ". ................................ ................................ ................................ ............  WHEN LONG -LIVED TOKENS MAY MAKE SENSE ................................ ................",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 4,
+      "page": 1,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 965
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_5",
+    "content": ". ......................  EMERGING TRENDS AND FUTURE DIRECTIONS ................................ ................................ ................................ ...........  CONTINUOUS ACCESS EVALUA...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 5,
+      "page": 1,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 978
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_6",
+    "content": ". ................................ ................................ ................................ ......................  CONCLUSION ................................ ..................................",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 6,
+      "page": 1,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 316
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_7",
+    "content": "AUTHOR BIO ................................ ................................ ................................ ................................ ................................ ...............  Abstrac...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 7,
+      "page": 2,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 910
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_8",
+    "content": ". Developers and architects should consider the security benefits of using short -lived, narrowly scoped client -bound tokens designed to minimize the risk of misuse. By limiting the lifespan of token...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 8,
+      "page": 2,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 699
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_9",
+    "content": ". Introduction Identity systems and the use of tokens go hand in hand; their existence is ubiquitous, and the need to manage them carefully is at the core of identity security practice today . But wha...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 9,
+      "page": 2,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 861
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_10",
+    "content": ". Tokens may be differentiated based on whether they require the server to maintain session information . A token may be stateless and only carry encoded information (e.g., claims, user roles, and exp...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 10,
+      "page": 2,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 504
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_11",
+    "content": "token can be opaque as well, if encrypted.) Instead, their meaning is tracked by the issuing server, which maintains the state (e.g., session data, user permissions) associated with the token. Tokens ...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 11,
+      "page": 3,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 888
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_12",
+    "content": ". However, while the OAuth . framework allows these options, implementation decisions have a meaningful impact on security  which is why various Working Groups have emerged to develop profiles of OAut...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 12,
+      "page": 3,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 790
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_13",
+    "content": ". This limitation contrasts with broader scopes, which can provide access to multiple services or actions with a single to ken. Using narrowly scoped tokens, combined with short expiration times, ensu...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 13,
+      "page": 3,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 943
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_14",
+    "content": ". This is called screen -scraping.  By limiting the scope, context, and duration of the tokens they grant, authorization servers protect users (and their credentials) from unscrupulous actors on the i...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 14,
+      "page": 3,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 586
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_15",
+    "content": "This brings us to this article and the complicated family of tokens in the OAuth . framework. OAuth . is a set of specifications, defined in the Internet Engineering Task Force (IETF) that allow a cli...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 15,
+      "page": 4,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 976
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_16",
+    "content": "Bearer Token: According to RFC , The OAuth . Authorization Framework: Bearer Token Usage, a bearer token is a security token with the property that any party in possession of the token (a \"bearer\") ca...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 16,
+      "page": 5,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 991
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_17",
+    "content": ".  Token replay attack: A cybersecurity attack that occurs when an attacker intercepts valid tokens such as tokens or session IDs during transmission and reuses them to impersonate the legitimate user...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 17,
+      "page": 5,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 979
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_18",
+    "content": ". Access tokens are meant for authorizing specific API calls, while refresh tokens are used only with the authorization server to obtain new access tokens. This mechanism ensures that users dont need ...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 18,
+      "page": 5,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 730
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_19",
+    "content": "tokens, reauthentication should occur periodically to maintain the security of the session. ix The Role of Short -Lived Tokens in Security Short -lived tokens are a fundamental tool in enhancing the s...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 19,
+      "page": 6,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 804
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_20",
+    "content": ". Although this article focuses on short -lived tokens as a security best practice, emerging standards like Continuous Access Evaluation Profile (CAEP) aim to extend token lifetimes in controlled ways...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 20,
+      "page": 6,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 669
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_21",
+    "content": ". The standards also encourage the combination of short -lived tokens with other security mechanisms, such as client -bound tokens or token binding, which ensures that tokens can only be used by speci...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 21,
+      "page": 6,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 844
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_22",
+    "content": "a token can be used. Even if an attacker manages to steal a token, its utility is severely restricted because it will soon expire, rendering it invalid. For example, in the context of OAuth ., access ...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 22,
+      "page": 7,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 876
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_23",
+    "content": ". If a short -lived access token is intercepted, its limited lifespan means that it will soon become invalid, rendering it useless to the attacker. This frequent renewal of access tokens forces attack...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 23,
+      "page": 7,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 993
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_24",
+    "content": ". While refresh tokens often have longer lifespans, they must be protected with robust security measures . If an attacker gains access to a refresh token, they can continue to generate new short -live...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 24,
+      "page": 7,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 956
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_25",
+    "content": "Systems that use refresh tokens should implement several security measures to mitigate the risk: . Refresh Token Rotation: Upon each use, the refresh token should be reissued to limit the threat of an...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 25,
+      "page": 8,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 857
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_26",
+    "content": ". This action adds a layer of security by forcing legitimate users to prove their identity again, limiting the window during which a stolen refresh token can be used. . Token Revocation: If suspicious...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 26,
+      "page": 8,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 976
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_27",
+    "content": ". In this case, additional security measures such as client binding, reauthentication, or token revocation become crucial for mitigating the damage. Support for Scalable and Stateless Architectures Sh...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 27,
+      "page": 8,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 904
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_28",
+    "content": "minimal. The scope of the token is also critical to its security impact. A token representing only the clients identity can expose a broader range of resources. However, if the token carries user -spe...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 28,
+      "page": 9,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 886
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_29",
+    "content": ". The persistence and vulnerability of tokens can open doors for various attack vectors, particularly token compromise and replay. Lets look at a few critical security drawbacks associated with tokens...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 29,
+      "page": 9,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 947
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_30",
+    "content": ". These token s reduce the burden on users or applications to re - authenticate or refresh their credentials frequently, offering convenience and stability. However, this also creates a significant se...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 30,
+      "page": 9,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 844
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_31",
+    "content": "Token Replay Vulnerabilities One of the most concerning security drawbacks of some tokens is their susceptibility to token replay attacks. In a token replay attack, an attacker intercepts a token (thr...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 31,
+      "page": 10,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 920
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_32",
+    "content": ". According to NIST SP  -C, tokens not bound to a specific client or have inadequate expiration times are a critical weakness in federated identity systems. Challenges with Revocation Revocation is an...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 32,
+      "page": 10,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 959
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_33",
+    "content": ". Organizations that are taking advantage of CAEP may extend token lifetimes, requiring a refre sh only after an event that triggers policy enforcement. Increased Attack Surface Long -lived tokens can...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 33,
+      "page": 10,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 674
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_34",
+    "content": "However, refresh tokens are typically not issued in most server -to-server interactions , and short -lived access tokens are preferred to minimize the time a token remains valid. This restriction limi...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 34,
+      "page": 11,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 913
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_35",
+    "content": ". In microservices environments, where APIs are constantly communicating, short - lived tokens are crucial for securing service -to-service interactions. These tokens ensure that access is limited in ...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 35,
+      "page": 11,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 938
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_36",
+    "content": ". In contrast, short -lived, narrowly scoped tokens allow administrators to enforce fine - grained access control, ensuring that tokens are only valid for specific operations or resources for a limite...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 36,
+      "page": 11,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 526
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_37",
+    "content": "When Long -Lived Tokens May Make Sense There are scenarios where long -lived tokens do offer certain benefits, particularly in specific use cases where organizations have good reason to prioritize con...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 37,
+      "page": 12,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 984
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_38",
+    "content": ".  Note: In cases where the application involves workload identities , then protocols like SPIFFE enable dynamic, instance -based tokens.xvii Long -lived tokens are not necessary. Improved Performance...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 38,
+      "page": 12,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 759
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_39",
+    "content": ". Service -to-Service Communication In certain system -to-system communications where services need to interact with each other in a highly trusted environment (e.g., within the same enterprise or dat...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 39,
+      "page": 12,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 355
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_40",
+    "content": "Use case : Within microservice architectures in secure internal networks, long - lived tokens can facilitate inter -service communication without requiring frequent re -authentication.  Note: This use...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 40,
+      "page": 13,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 944
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_41",
+    "content": ". CAEP enables access tokens to have longer lifespans without compromising security. This is achieved by combining periodic risk assessments with real -time revocation capabilities. For example, if a ...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 41,
+      "page": 13,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 931
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_42",
+    "content": ". This approach seeks to reduce unnecessary reauthentication while maintaining a high level of security. Proof of Possession and Sender -Constrained Tokens The shift from bearer tokens to proof -of-po...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 42,
+      "page": 13,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 484
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_43",
+    "content": "of Proof -of-Possession) and Mutual TLS (mTLS) are advancing this concept, reducing the risk of token replay attacks and unauthorized use. Enhanced Revocation Mechanisms Real -time token revocation re...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 43,
+      "page": 14,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 754
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_44",
+    "content": ". (Of course, if you are following zero -trust principles, there is no such thing as a trusted environment.) Short -lived, narrowly - scoped tokens, client -bound tokens, and strong cryptographic stan...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 44,
+      "page": 14,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 813
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_45",
+    "content": ". And w hile short -lived tokens remain a cornerstone of secure token management today, the evolving landscape of token management frameworks, such as CAEP, suggests that risk tolerance for longer tok...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 45,
+      "page": 14,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 691
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_46",
+    "content": "Author Bio Heather Flanagan, Principal at Spherical Cow Consulting, comes from a position that the Internet is led by people, powered by words, and inspired by technology. She has been involved in lea...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 46,
+      "page": 15,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 896
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_47",
+    "content": ". Jones, \"JSON Web Token Best Current Practices\", BCP , RFC , DOI .RFC, February ,  https:www.rfc -editor.orginforfc . Note that some readers may find reference to RFC , The Token Binding Protocol in ...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 47,
+      "page": 15,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 902
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_48",
+    "content": ". and OpenID Connect recommended by the OpenID Foundations FAPI Working Group that focuses on use cases requiring high security, like Open Banking : Fett, D. FAPI . Security Profile Implementers Draft...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 48,
+      "page": 15,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 985
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_49",
+    "content": ". Lodderstedt, \"OAuth . Mutual -TLS Client Authentication and Certificate -Bound Access Tokens\", RFC , DOI .RFC, February , https:www.rfc -editor.orginforfc. viii Hardt, D., Ed., \"The OAuth . Authoriz...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 49,
+      "page": 15,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 279
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_50",
+    "content": "ix Grassi, Paul A, James L Fenton, Elaine M Newton, Ray A Perlner, Andrew R Regenscheid, William E Burr, Justin P Richer, et al. . Digital Identity Guidelines: Authentication and Lifecycle Management....",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 50,
+      "page": 16,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 982
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_51",
+    "content": ". xiv Manipulator -in-the-middle Attack  OWASP Foundation, n.d. https:owasp.orgwww - communityattacksManipulator -in-the-middle_attack. xv Trevino, Aranza, and Aranza Trevino. . What Are Zero Standing...",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 51,
+      "page": 16,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 997
+  },
+  {
+    "chunk_id": "BuenasPracticasTiempoDeSesion2025.pdf_52",
+    "content": ". xx Workload Identity in Multi System Environments (Wimse). n.d. https:datatracker.ietf.orggroupwimseabout .",
+    "metadata": {
+      "source": "BuenasPracticasTiempoDeSesion2025.pdf",
+      "topic": "Mejores Prácticas de Sesión",
+      "chunk_index": 52,
+      "page": 16,
+      "total_chunks": 53,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 109
+  },
+  {
+    "chunk_id": "OAuth2.pdf_0",
+    "content": "Introduction to OAuth . By Bertrand Carlier   IDPro, Bertrand Carlier To comment on this article, please visit our GitHub repository and submit an issue . Table of Contents ABSTRACT .....................",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 0,
+      "page": 1,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 972
+  },
+  {
+    "chunk_id": "OAuth2.pdf_1",
+    "content": ". .........  GET A TOKEN :................................ ................................ ................................ ................................ ...............  USE THE TOKEN ..............",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 1,
+      "page": 1,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 968
+  },
+  {
+    "chunk_id": "OAuth2.pdf_2",
+    "content": ". ........................  GET A TOKEN (ALSO) ................................ ................................ ................................ ................................ ....  TOKENS ...........",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 2,
+      "page": 1,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 980
+  },
+  {
+    "chunk_id": "OAuth2.pdf_3",
+    "content": ". ...............................  AUTHOR ................................ ................................ ................................ ................................ ........................  ...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 3,
+      "page": 1,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 444
+  },
+  {
+    "chunk_id": "OAuth2.pdf_4",
+    "content": "About OAuth In a nutshell, this standard protocol aims to allow access from a client application (a website, a mobile application, an Internet -connected device, etc.) to a protected resource (e.g., a...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 4,
+      "page": 2,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 830
+  },
+  {
+    "chunk_id": "OAuth2.pdf_5",
+    "content": ". Get an access token . Use the access token . Validate the access token Figure : High -level diagram of OAuth flows When looking into the OAuth specification space, you are quickly surrounded with ma...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 5,
+      "page": 2,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 330
+  },
+  {
+    "chunk_id": "OAuth2.pdf_6",
+    "content": "Terminology Term Definition Client A client application consuming an API Protected Resource An API in the OAuth terminology Resource Owner An end -user using the client application and granting it acc...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 6,
+      "page": 3,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 931
+  },
+  {
+    "chunk_id": "OAuth2.pdf_7",
+    "content": "Where to start OAuth is defined through a series of IETF RFC documents that each describe a specific aspect , use case, or profile of use of the protocol. Figure : An artistic rendering of OAuth and r...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 7,
+      "page": 4,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 976
+  },
+  {
+    "chunk_id": "OAuth2.pdf_8",
+    "content": ". Access Tokens defining a JWT profile for the access token .v Lets use this breakdown to see what OAuth offers .",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 8,
+      "page": 4,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 113
+  },
+  {
+    "chunk_id": "OAuth2.pdf_9",
+    "content": "Get a Token: This step can be seen as a two -step process: first , the client must be authorized for an access token, then the client will perform a token request.  As mentioned above, of the four ini...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 9,
+      "page": 5,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 968
+  },
+  {
+    "chunk_id": "OAuth2.pdf_10",
+    "content": ". This flow uses redirections within a user -agent, typically the u sers browser , as well as a back -channel request to eventually obtain the OAuth Access Token. There is a first step to authorize th...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 10,
+      "page": 5,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 962
+  },
+  {
+    "chunk_id": "OAuth2.pdf_11",
+    "content": ". This flow is suited for application - to-application access . Use the Token This step aims to use the access token while calling the protected resource. RFC  describes how an access token should be ...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 11,
+      "page": 5,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 656
+  },
+  {
+    "chunk_id": "OAuth2.pdf_12",
+    "content": "The token format is not specified and can be anything from a randomly generated opaque string acting as a reference token to a quite frequently witnessed JWT signed value token (RFC  ), but it can be ...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 12,
+      "page": 6,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 881
+  },
+  {
+    "chunk_id": "OAuth2.pdf_13",
+    "content": ". It is generally recommended to rely on one of those two documents to help with interoperability between the protected resource and the authorization server Beyond the Basics This section of the arti...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 13,
+      "page": 6,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 673
+  },
+  {
+    "chunk_id": "OAuth2.pdf_14",
+    "content": ". Get a Token ( Also) A few additional ways to obtain an access token were later provided through additional specifications:  SAML profile and JWT profile will allow the delivery of an access token in...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 14,
+      "page": 6,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 826
+  },
+  {
+    "chunk_id": "OAuth2.pdf_15",
+    "content": "Tokens Until now , only the access token was mentioned. It is the core token that OAuth provides to client applications. This token is generally a bearer token , meaning that any entity that gets acce...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 15,
+      "page": 7,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 789
+  },
+  {
+    "chunk_id": "OAuth2.pdf_16",
+    "content": ". The specification recommends that the access token has a limited lifetime .  Sender -constrained tokens. Recent specifications ( mTLS , DPoP , etc.) allow that access tokens can be bound to the init...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 16,
+      "page": 7,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 859
+  },
+  {
+    "chunk_id": "OAuth2.pdf_17",
+    "content": ". OAuth also defines the concept of a refresh token issued by the Authorization Server and shared with the client app. This refresh token will allow the client app to request a fresh AT (e.g., once it...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 17,
+      "page": 7,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 512
+  },
+  {
+    "chunk_id": "OAuth2.pdf_18",
+    "content": ". Discovery In order to help clients dynamically register against an authorization server or programmatically get information about the authorization server features and level of support, some discove...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 18,
+      "page": 7,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 619
+  },
+  {
+    "chunk_id": "OAuth2.pdf_19",
+    "content": "- RFC  - OAuth . Threat Model and Security Considerationsxiv - OAuth . Security Best Current Practice (currently draft) - OAuth . (currently draft) is a minor but important revision to the standard th...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 19,
+      "page": 8,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 968
+  },
+  {
+    "chunk_id": "OAuth2.pdf_20",
+    "content": ". It introduces another token ( ID Token ), which is shared between the Authorization Server (or OpenID provider) and the client (or Relying Party). This token is a JWT formatted token . It conveys in...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 20,
+      "page": 8,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 927
+  },
+  {
+    "chunk_id": "OAuth2.pdf_21",
+    "content": ". . OAuth  in Action . Manning.  Parecki, Aaron. . OAUTH . Simplified . Lulu.com. Author Bertrand Carlier is a senior manager in the Cybersecurity  Digital Trust practice at Wavestone consultancy with...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 21,
+      "page": 8,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 810
+  },
+  {
+    "chunk_id": "OAuth2.pdf_22",
+    "content": "i Dingle, P., () Introduction to Identity - Part : Access Management, IDPro Body of Knowledge (). doi: https:doi.org.idpro. ii Hardt, D., Ed., \"The OAuth . Authorization Framework\", RFC , DOI .RFC, Oc...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 22,
+      "page": 9,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 967
+  },
+  {
+    "chunk_id": "OAuth2.pdf_23",
+    "content": ". vii Jones, M., Bradley, J., and N. Sakimura, \"JSON Web Token (JWT)\", RFC , DOI .RFC, May , https:www.rfc -editor.orginforfc. viii Campbell, B., Mortimore, C., and M. Jones, \"Security Assertion Marku...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 23,
+      "page": 9,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 926
+  },
+  {
+    "chunk_id": "OAuth2.pdf_24",
+    "content": ". Mortimore, \"OAuth . Token Exchange\", RFC , DOI .RFC, January , https:www.rfc -editor.orginforfc. xi Campbell, B., Bradley, J., Sakimura, N., and T. Lodderstedt, \"OAuth . Mutual -TLS Client Authentic...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 24,
+      "page": 9,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 987
+  },
+  {
+    "chunk_id": "OAuth2.pdf_25",
+    "content": ". xiv Lodderstedt, T., Ed., McGloin, M., and P. Hunt, \"OAuth . Threat Model and Security Considerations\", RFC , DOI .RFC, January , https:www.rfc - editor.orginforfc. xv Denniss, W. and J. Bradley, \"O...",
+    "metadata": {
+      "source": "OAuth2.pdf",
+      "topic": "OAuth 2.0",
+      "chunk_index": 25,
+      "page": 9,
+      "total_chunks": 26,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 706
+  },
+  {
+    "chunk_id": "PKCE.pdf_0",
+    "content": "PKCE: Proof Key for Code Exchange   IDPro, Rusty Deaton To comment on this article, please visit our GitHub repository and submit an issue . Table of Contents ABSTRACT ...................................",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 0,
+      "page": 1,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 951
+  },
+  {
+    "chunk_id": "PKCE.pdf_1",
+    "content": ". ...........................  THE PKCE FIX ................................ ................................ ................................ ................................ ................  THE CO...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 1,
+      "page": 1,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 992
+  },
+  {
+    "chunk_id": "PKCE.pdf_2",
+    "content": ". ................................ ................................ ................................ ..  IN CONCLUSION ................................ ................................ ..................",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 2,
+      "page": 1,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 928
+  },
+  {
+    "chunk_id": "PKCE.pdf_3",
+    "content": ". Protocol. The standard has evolved to solve many complex use cases through a structured standards development process. OAuth has seen many updates in the nearly  years since its initial release . Th...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 3,
+      "page": 1,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 368
+  },
+  {
+    "chunk_id": "PKCE.pdf_4",
+    "content": "Introduction OAuth has been a transformative standard in the field of Identity and Access Management. Being an open standard, OAuth has risen to challenges proposed by the nature of interconnected sys...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 4,
+      "page": 2,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 950
+  },
+  {
+    "chunk_id": "PKCE.pdf_5",
+    "content": ". As of this writing, OAuth v. is the latest approved specification. OAuth . is tied to RFCs  ( \"The OAuth . Authorization Framework \")i and  ( \"The OAuth . Authorization Framework: Bearer Token Usage...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 5,
+      "page": 2,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 929
+  },
+  {
+    "chunk_id": "PKCE.pdf_6",
+    "content": ". We focus in this article on RFC  (\"Proof Key for Code Exchange by OAuth Public Clients. )iv Terminology Term Description OAuth Refers to the standards -based delegation protocol , described in sever...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 6,
+      "page": 2,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 926
+  },
+  {
+    "chunk_id": "PKCE.pdf_7",
+    "content": "Cryptographic Hash Function A cryptographic hash function is a function that takes a given input of an unspecified length and returns an output of a fixed length . Given an input, the hash function sh...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 7,
+      "page": 3,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 985
+  },
+  {
+    "chunk_id": "PKCE.pdf_8",
+    "content": ". Let us pretend we have a smartphone with two applications on th e device . Both applications are run by the same user and have effectively the same general permissions on the local system. In this s...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 8,
+      "page": 3,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 335
+  },
+  {
+    "chunk_id": "PKCE.pdf_9",
+    "content": "In an ideal world, there are no issues here. However, what if one of the applications were malicious? The malicious application, having access to the same local resources as the good application, fulf...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 9,
+      "page": 4,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 929
+  },
+  {
+    "chunk_id": "PKCE.pdf_10",
+    "content": ". client_id and client_secret if one is set . We should understand that this requirement is relatively trivial for a dedicated attacker public -facing applications expose client_id readily . If Shanno...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 10,
+      "page": 4,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 511
+  },
+  {
+    "chunk_id": "PKCE.pdf_11",
+    "content": "b. The attacker can observe requests from the good application as well as responses from the authorization endpoint. This second condition, specifically the addition of observability into requests fro...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 11,
+      "page": 5,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 976
+  },
+  {
+    "chunk_id": "PKCE.pdf_12",
+    "content": ". Assuming these preconditions are met , an attacker can , at minimum , observe responses from the authorization endpoint by way of the malicious app . This ability , in turn, would give the malicious...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 12,
+      "page": 5,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 967
+  },
+  {
+    "chunk_id": "PKCE.pdf_13",
+    "content": ". RFC  (\"Best Current Practice for OAuth . Security \")vii discusses authorization code injection attacks more broadly . As Aaron Parecki and Micah Silverman discussed and demonstrated elsewhere , a pa...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 13,
+      "page": 5,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 839
+  },
+  {
+    "chunk_id": "PKCE.pdf_14",
+    "content": "It behooves us to understand the new pieces that PKCE brings forward in this flow. Namely, we should understand the code verifier and code challenge components, as well as how the introduction of PKCE...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 14,
+      "page": 6,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 739
+  },
+  {
+    "chunk_id": "PKCE.pdf_15",
+    "content": ". The Code Verifier The first step to mitigate the above attack is through the use of a dynamic, single -use key, which they call a code verifier. This key is not just any key, however; per spec , it ...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 15,
+      "page": 6,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 949
+  },
+  {
+    "chunk_id": "PKCE.pdf_16",
+    "content": "URL-safe string to use as the code verifier. Once this generation process is performed, we move on to building the code challenge. The Code Challenge This code verifier can be sent one of two ways: it...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 16,
+      "page": 7,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 842
+  },
+  {
+    "chunk_id": "PKCE.pdf_17",
+    "content": ". By doing this, we mitigate cases where an attacker can observe responses from the authorization endpoint, which is great but not a complete fix. To fully resolve the issue, we can hold on to the \"PL...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 17,
+      "page": 7,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 671
+  },
+  {
+    "chunk_id": "PKCE.pdf_18",
+    "content": ". It is then passed to the authorization endpoint, along with the code challenge method. Sending the Code Challenge An example URL might look something like this (with line breaks after every paramete...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 18,
+      "page": 7,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 944
+  },
+  {
+    "chunk_id": "PKCE.pdf_19",
+    "content": "authorization code, the code_challenge and the code_challenge method having different timeout values for those settings would not make sense. Requesting the Token The code authorization flow proceeds ...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 19,
+      "page": 8,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 824
+  },
+  {
+    "chunk_id": "PKCE.pdf_20",
+    "content": ". The attacker can observe responses from the authorization endpoint. . The attacker can observe requests from both the good application and responses from the authorization endpoint. If, in our initi...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 20,
+      "page": 8,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 986
+  },
+  {
+    "chunk_id": "PKCE.pdf_21",
+    "content": ". Assuming the code_verifier is rightfully verified, the code authorization flow continues as normal. Additional Points A person reading the spec (or indeed this article) may ask themselves, \"Why only...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 21,
+      "page": 8,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 938
+  },
+  {
+    "chunk_id": "PKCE.pdf_22",
+    "content": "If we look back to the security assumptions that drive PKCE, the value of the code_challenge is that it helps ensure a malicious application or service cannot derive anything meaningful from our reque...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 22,
+      "page": 9,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 994
+  },
+  {
+    "chunk_id": "PKCE.pdf_23",
+    "content": ". Reducing this time to a minute, or  seconds, increases the required computing power to perform an attack like this tremendously  an attack, it should be noted, that does not currently exist. SHA- ad...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 23,
+      "page": 9,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 992
+  },
+  {
+    "chunk_id": "PKCE.pdf_24",
+    "content": ". and why PKCE is widely adopted despite being (until retired and made officially a part of the spec) a standalone RFC. It is t remendous to see OAuth as a standard evo lve and rise to operational and...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 24,
+      "page": 9,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 880
+  },
+  {
+    "chunk_id": "PKCE.pdf_25",
+    "content": "Author Bio Rusty Deaton has been in Identity and Access Management for over a decade. He began in technology as a technical support engineer for a Broker -Dealer and has since worked across many indus...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 25,
+      "page": 10,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 979
+  },
+  {
+    "chunk_id": "PKCE.pdf_26",
+    "content": ". iv Sakimura, N., Ed., Bradley, J., and N. Agarwal, \"Proof Key for Code Exchange by OAuth Public Clients\", RFC , DOI .RFC, September , https:www.rfc - editor.orginforfc. v Wikipedia contributors, \"Ke...",
+    "metadata": {
+      "source": "PKCE.pdf",
+      "topic": "Proof Key for Code Exchange",
+      "chunk_index": 26,
+      "page": 10,
+      "total_chunks": 27,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 801
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_0",
+    "content": "An Overview of the Digital Identity Lifecycle (v) By Andrew Cameron and Olaf Grewe   IDPro, Andrew Cameron, Olaf Grewe Table of Contents ABSTRACT ................................ ........................",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 0,
+      "page": 1,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 963
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_1",
+    "content": ". ........  WORKFORCE IDENTITY ................................ ................................ ................................ ................................ .....................  CUSTOMER IDENT...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 1,
+      "page": 1,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 993
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_2",
+    "content": ". .................  ACKNOWLEDGEMENTS ................................ ................................ ................................ ................................ ...  CHANGE LOG .................",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 2,
+      "page": 1,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 880
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_3",
+    "content": "Introdu ction to Digital Identity A digital identity, for the purpose of this document, is defined as the combination of a unique identifier together with relevant attributes that uniquely identifies ...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 3,
+      "page": 2,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 843
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_4",
+    "content": ". Customer IAM has an entirely different set of requirements that represent value to a business due to the nature of its defining interactions with a customer. Poor or inefficient inter actions with c...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 4,
+      "page": 2,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 873
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_5",
+    "content": ". Customer A customer identity type will usually function outside the enterprise context, enabling digital business between the owner of the customer identity and the enterprise. Typically, there will...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 5,
+      "page": 2,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 598
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_6",
+    "content": "Terminology  Digital Identity  the combination of a unique identifier together with relevant attributes that uniquely identifies an entity .  Journey -based Creation  The process that guides a custome...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 6,
+      "page": 3,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 930
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_7",
+    "content": ". Identity Lifecycles For any lifecycle create phase, a digital identity is created as a unique identifier in a system of record. It can be created either as part of a business process (workforce or d...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 7,
+      "page": 3,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 902
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_8",
+    "content": ". Workforce Identity The wo rkforce identity lifecycle is addressed through three principal business processes: Joiner, Mover, or Leaver. The Joiner processes cover all lifecycle phases that facilitat...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 8,
+      "page": 3,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 743
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_9",
+    "content": "Figure   Core IAM Processes The following table describes the phases that support the workforce identity lifecycle:",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 9,
+      "page": 4,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 115
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_10",
+    "content": "Lifecycle Phase Description Create Identity The creation of a workforce identity as part of a business process (employees, suppliers, etc.) is frequently combined with the collection of proof to estab...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 10,
+      "page": 5,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 889
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_11",
+    "content": ". Provision Account Create accounts in enterprise systems based on business rules and required access to resources. Provision Access Create entitlements by associating user accounts to objects that en...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 11,
+      "page": 5,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 559
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_12",
+    "content": "Manage Access Validate that the access that has been assigned an account and approving continued access to corporate resources. Access certification is a process that validates all current access and ...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 12,
+      "page": 6,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 972
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_13",
+    "content": ". These are important controls to address identity take -over risks. Depending on the value of the digital identity for the organization, updates to digital identities may be subject to enrolment -typ...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 13,
+      "page": 6,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 851
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_14",
+    "content": ". Only once the identifier used for t his digital identity has been removed from all systems can a digital identity be considered genuinely deleted. A detailed discussion on the importance of account ...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 14,
+      "page": 6,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 790
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_15",
+    "content": "(Authentication, Registration, Profile Update) that a customer has when en gaging with digital resources such as websites, mobile apps, or IoT interfaces. The following diagram depicts the phases of t...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 15,
+      "page": 7,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 347
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_16",
+    "content": "Lifecycle Phase Description Register The first part of the user journey is the creation of a customer identity through a registration process. This registration typically happens where a digital ident...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 16,
+      "page": 8,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 985
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_17",
+    "content": ". Depending on the nature of the digital transaction, customer identities may require assurance over several attributes. A key consideration here is the attributes used to establish ownership (or reco...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 17,
+      "page": 8,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 796
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_18",
+    "content": ". Two common techniques are cookies or device fingerprinting. For an illustration of the latter, see the EFFs Panopticlick site.iv Manage Privacy and Consent The customer lifecycle must include a proc...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 18,
+      "page": 8,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 478
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_19",
+    "content": "Manage Access The customer lifecycle will require managing access to business services based on customer interactions. The user may also choose to provide additional attributes. The service would typi...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 19,
+      "page": 9,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 946
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_20",
+    "content": ". From a security pe rspective, monitoring data can be used to notify the customer of leaked credentials or other breaches of information. The business can also benefit by leveraging historical usage ...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 20,
+      "page": 9,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 920
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_21",
+    "content": ". On the other end of the scale, some simple monitors can connect to a network and only provide a temperature value or some other basic information. All devices will need specific lifecycle phases to ...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 21,
+      "page": 9,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 240
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_22",
+    "content": "Figure   The Device Identity Lifecycle The following table describes the phases in a simple model that support the device identity lifecycle: Lifecycle Phase Description Create The first stage in the ...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 22,
+      "page": 10,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 957
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_23",
+    "content": ". Manage  Maintain Once the initial phases are complete, the device or system must be monitored to determine if any actions are needed to maintain the device. As an IT security best practice, credenti...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 23,
+      "page": 10,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 357
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_24",
+    "content": "Deprovision Access When the device or system is no longer in use (which may require different processes than workforce or customer digital identities to determine), remove access of the device or syst...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 24,
+      "page": 11,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 779
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_25",
+    "content": ". In addition, digital identities may be related t o other identities within an organization to establish delegation authority or to manage dual -control requirements. In all cases, relationships are ...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 25,
+      "page": 11,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 758
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_26",
+    "content": "Inter -entity (Delegation) Delegation involves assigning a subset of authority from an identity in one business domain to an identity that resides in another business domain. In this example, business...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 26,
+      "page": 12,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 894
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_27",
+    "content": "Conclusion The complexity of the digital identity lifecycle frequently becomes apparent only after a number of years and as more functionality gets added to systems. Therefore, it is advisable to appr...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 27,
+      "page": 13,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 927
+  },
+  {
+    "chunk_id": "LifeCycle.pdf_28",
+    "content": ". ii Glazer, Ian, Identifiers and Usernames , IDPro Body of Knowledge,  March , https:bok.idpro.orgarticleid . iii Hindle, Andrew, Impact of GDPR on Identity and Access Management, IDPro Body of Knowl...",
+    "metadata": {
+      "source": "LifeCycle.pdf",
+      "topic": "Ciclo de Vida de Identidades",
+      "chunk_index": 28,
+      "page": 13,
+      "total_chunks": 29,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 340
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_0",
+    "content": "Authentication and Authorization (v) By Mark Morowczynski (Microsoft) and Michael Epping (Microsoft)   IDPro, Mark Morowczynski , and Michael Epping Updated by the IDPro Body of Knowledge Committee fo...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 0,
+      "page": 1,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 500
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_1",
+    "content": "Abstract This article describes the fundamentals of authentication and authorization, two core components of Identity and Access Management. It also delves into federation and Identity Providers, comm...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 1,
+      "page": 2,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 903
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_2",
+    "content": ". For example, a file share may have an Access Control List that allows Marketing Department users to read and write, IT Department users to read -only, and denies all other users access. Attribute -B...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 2,
+      "page": 2,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 922
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_3",
+    "content": ". Authorization Determining a users rights to access functionality with a computer application and the level at which that access should be granted. In most cases, an authority defines and grants acce...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 3,
+      "page": 2,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 564
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_4",
+    "content": "with firstName attribute as John, lastName attribute as Smith, title attribute as Director, and Department attribute as Marketing. The attributes in the directory can be used to make authorization dec...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 4,
+      "page": 3,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 836
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_5",
+    "content": ". The enterprise user will log into the application using their credentials from the enterprise rather than creating new, specific credentials within the application. By using one set of credentials ,...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 5,
+      "page": 3,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 849
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_6",
+    "content": ". Identity Information Authority, aka Sources of Truth This represents one or more data sources used by the IDM as the basis for the master set of principalsubject identity records. Each IIA may suppl...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 6,
+      "page": 3,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 836
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_7",
+    "content": ". This information is typically held in a user store, so an identity provider will often take that information and transform it to be able to be passed to the service providers, AKA apps. The OASIS or...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 7,
+      "page": 3,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 706
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_8",
+    "content": "something you have (e. g., smartphone), something you are (e.g., fingerprint). Relying Party A component, system, or application that uses the IDP to identify its users. The RP has its own resources a...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 8,
+      "page": 4,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 999
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_9",
+    "content": ". Role -based access control is a control scheme in which roles are granted to identities, and those roles determine what access to resources those identities should have. Basic roles might be admin a...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 9,
+      "page": 4,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 902
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_10",
+    "content": ". Some types of credentials can provide both identification and authentication simultaneously , such as FIDO credentials or some biometrics. What is Authentication? Conceptually, authentication, somet...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 10,
+      "page": 4,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 930
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_11",
+    "content": "and then a PIN. If you successfully authenticate, then the ATM can trust that you are the owner of the account . Authentication can take different forms for different resources: Figure : The user and ...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 11,
+      "page": 5,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 982
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_12",
+    "content": ". There are also different authenticator apps where a push notification is sent to the device and approved by the end -user. Physical FIDO security keys and biometrics like fingerprints and facial rec...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 12,
+      "page": 5,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 947
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_13",
+    "content": "What is Authorization? The next critical part of Identity and Access Management is authorization, sometimes abbreviated as AuthZ. Conceptually you can think of this as what an entity is allowed to do....",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 13,
+      "page": 6,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 925
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_14",
+    "content": ". You dont have the authorization to access that resource. Youve also experienced this when you were able to view a file or access a site. There was just no message saying you were allowed to do it! Y...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 14,
+      "page": 6,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 971
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_15",
+    "content": ". Alternatively, if you hold the role of a reader in the system, then you may be able to view all the same things as the administrator, but you dont have the ability to make any changes. Similar ly, t...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 15,
+      "page": 6,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 915
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_16",
+    "content": ". Only those that were a member of the engineering department would be able to. These decisions are made typically by Access Control Lists (ACLs) determined by the system administrator. RBAC and ABAC ...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 16,
+      "page": 6,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 973
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_17",
+    "content": "reports. Finally, the hea d of HR might expect to see a wide range of information about the company. They might expect to see total hours worked for everyone in the company, total payroll, and benefit...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 17,
+      "page": 7,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 962
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_18",
+    "content": ". Authorization grants or denies permissions to various resources for both human and non - human accounts. However, the implementation details of this can be extremely complex. In our example above, t...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 18,
+      "page": 7,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 985
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_19",
+    "content": ". Operations also need to work with sales to ensure the supply chain is aligned with th eir sales projections. Do we create more groups for all three teams to work together? As you can see, this start...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 19,
+      "page": 7,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 909
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_20",
+    "content": ". It is easy to grant more permissions such that things will work in an effort to make the authorization process simpler , but well pay the price later for those decisions, often in catastrophic ways....",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 20,
+      "page": 7,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 684
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_21",
+    "content": "reside on your corporate intranet (i.e., is a cloud -hosted service), your users will still need to authenticate.v The identity provider, frequently abbreviated as IdP or IDP, handles the authenticat ...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 21,
+      "page": 8,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 933
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_22",
+    "content": ". If the user successfully authenticates, then the IdP issues assertions to the application relying party . Assertions, sometimes also re ferred to as claims, are pieces of information that are sent t...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 22,
+      "page": 8,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 686
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_23",
+    "content": ". The information requested and sent varies from application to application, but information such as title, manager, employee ID, etc., can be included in the assertion. Before a user can authenticate...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 23,
+      "page": 8,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 950
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_24",
+    "content": ". These are important tools, especially in modern environments where cloud applications and services continue to proliferate. Organizations must be able to authenticate users, validate they are who th...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 24,
+      "page": 8,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 802
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_25",
+    "content": "the damage if an d when the wrong user or a compromised account accesses or has higher - than -necessary level of privilege in a system , thus reducing the blast radius of any nefarious actions as muc...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 25,
+      "page": 9,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 958
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_26",
+    "content": ". Michael has more than nine years of experience working with customers to deploy M icrosoft products like Azure AD, Intune, and Office . Mark Morowczynski (markmorow) is a Principal Program Manager o...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 26,
+      "page": 9,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 932
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_27",
+    "content": ". He can be frequen tly found on Twitter as markmorow arguing about baseball and sometimes making funny gifs. Change Log Date Change  -- V published  -- V published; terminology section expanded (ABAC...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 27,
+      "page": 9,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 748
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_28",
+    "content": "iii For more information, see Koot, André, Introduction to Access Control, IDPro Body of Knowledge,  June , https:bok.idpro.orgarticleid , and McKee, Mary, Policy -Based Access Control, IDPro Body of ...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 28,
+      "page": 10,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 912
+  },
+  {
+    "chunk_id": "Autenticacion+Autorizacion.pdf_29",
+    "content": ". vi For more in formation on IAM architectures, see Dobbs, G. B., () IAM Reference Architecture, IDPro Body of Knowledge (). doi: https:doi.org.idpro. vii OpenID Foundation, Fast Federation (FastFed)...",
+    "metadata": {
+      "source": "Autenticacion+Autorizacion.pdf",
+      "topic": "Autenticación y Autorización",
+      "chunk_index": 29,
+      "page": 10,
+      "total_chunks": 30,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 272
+  },
+  {
+    "chunk_id": "AccessControl.pdf_0",
+    "content": "Introduction to Access Control (v) By André Koot    IDPro, André Koot To comment on this article, please visit our GitHub repository and submit an issue . Table of Contents ABSTRACT .....................",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 0,
+      "page": 1,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 977
+  },
+  {
+    "chunk_id": "AccessControl.pdf_1",
+    "content": ". ...................  AAA: AUTHENTICATION, AUTHORIZATION, ACCOUNTABILITY ................................ ...........................  AUTHENTICATION ................................ ...................",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 1,
+      "page": 1,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 978
+  },
+  {
+    "chunk_id": "AccessControl.pdf_2",
+    "content": ". ................................ ................................ ...............  Modern Access Control ................................ ................................ ..............................",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 2,
+      "page": 1,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 980
+  },
+  {
+    "chunk_id": "AccessControl.pdf_3",
+    "content": ". ................................ ................................ ...............  CURRENT STATE OF ACCESS CONTROL ................................ ................................ ....................",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 3,
+      "page": 1,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 968
+  },
+  {
+    "chunk_id": "AccessControl.pdf_4",
+    "content": ". ................................ .......................  THE FUTURE DIRECTION OF ACCESS CONTROL ................................ ................................ ....................  DYNAMIC AUTHE...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 4,
+      "page": 1,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 989
+  },
+  {
+    "chunk_id": "AccessControl.pdf_5",
+    "content": ". ................................ ................................ ......................  CONCLUSION ................................ ................................ ..................................",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 5,
+      "page": 1,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 567
+  },
+  {
+    "chunk_id": "AccessControl.pdf_6",
+    "content": "Abstract As the name implies, Identity and Access Management (IAM) is split into two functions: managing identity information and performing access control. Arguably, if there was no access control re...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 6,
+      "page": 2,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 937
+  },
+  {
+    "chunk_id": "AccessControl.pdf_7",
+    "content": ". But in order to investigate the current challenges and solutions, lets start by evaluating a very old, traditional model of classified government documents. Information in documents stored in files ...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 7,
+      "page": 2,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 850
+  },
+  {
+    "chunk_id": "AccessControl.pdf_8",
+    "content": ". The information can be classified as Top Secret, but that must be defined by someone with the correct level of authority, like the owner of the information, the document, or the folder. Then, it mus...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 8,
+      "page": 2,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 971
+  },
+  {
+    "chunk_id": "AccessControl.pdf_9",
+    "content": ". Third, the classification level and the clearance level will have to be mapped in order to ensure that only the person with the correct security clearance level can access the classified information...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 9,
+      "page": 2,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 347
+  },
+  {
+    "chunk_id": "AccessControl.pdf_10",
+    "content": "And fourth: before giving the folder to the secret service agent, the person who is responsible for storing and retrieving t he file in an archive (the file manager or access controller) must verify i...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 10,
+      "page": 3,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 900
+  },
+  {
+    "chunk_id": "AccessControl.pdf_11",
+    "content": ". The hand -over is then registered in a journal. The access controller will always oversee the access, and thats been made easy by checking the stamp on the folder. Theft of information e.g., data le...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 11,
+      "page": 3,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 997
+  },
+  {
+    "chunk_id": "AccessControl.pdf_12",
+    "content": ". Authorization mapping: this belongs to authorization management . Authentication: this veri fication is part of both identity management and access management . Access granted: this is access contro...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 12,
+      "page": 3,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 977
+  },
+  {
+    "chunk_id": "AccessControl.pdf_13",
+    "content": ". The increase in the number of users, the number of systems, and the exponential growth of the information processed makes it evident that the paper world metaphor is not sustainable in the digital w...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 13,
+      "page": 3,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 205
+  },
+  {
+    "chunk_id": "AccessControl.pdf_14",
+    "content": "It was soon realized that the concep t of trust levels e.g., managing the clearance level of an individual document reader is hard to implement. Because so many actors are playing along and there is n...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 14,
+      "page": 4,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 917
+  },
+  {
+    "chunk_id": "AccessControl.pdf_15",
+    "content": ". These security policies must be formalized and need to be enforced by the owner of the resource. In doing so, the owner will try to manage the risk involved in access, such as the risk of abuse of i...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 15,
+      "page": 4,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 929
+  },
+  {
+    "chunk_id": "AccessControl.pdf_16",
+    "content": ".  The data is about this person (e.g., a medical record of a patient) There can be many more criteria to identify the owner, but this is part of data governance and out of scope for this article. In ...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 16,
+      "page": 4,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 987
+  },
+  {
+    "chunk_id": "AccessControl.pdf_17",
+    "content": ".  Authorization  Determining a us ers rights to access functionality with a computer application and the level at which that access should be granted. In most cases, an",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 17,
+      "page": 4,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 169
+  },
+  {
+    "chunk_id": "AccessControl.pdf_18",
+    "content": "authority defines and grants access, but in some cases, access is granted because of inherent rights (like patient acc ess to hisher own medical data).  Accountability  The obligation of a person to a...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 18,
+      "page": 5,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 919
+  },
+  {
+    "chunk_id": "AccessControl.pdf_19",
+    "content": ".  Access Policy  Definition of the rules to allow o r disallow access to secured objects.  Access Requester  The person, process, system, or thing that seeks to access a protected resource.  Access S...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 19,
+      "page": 5,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 968
+  },
+  {
+    "chunk_id": "AccessControl.pdf_20",
+    "content": ".  Policy Decision Point (PDP)  The policy engine validates access requests and provides attributes against the access policy (as defined in the Policy Administration Point).  Policy Administration Po...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 20,
+      "page": 5,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 981
+  },
+  {
+    "chunk_id": "AccessControl.pdf_21",
+    "content": "PAP  Policy Administration Point  PDP  Policy Decision Point  PEP  Policy Enforcement Point  RBAC  Role -Based Access Control or (less frequently) Rule -Based Access Control  ReBAC  Relation -Based Ac...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 21,
+      "page": 6,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 907
+  },
+  {
+    "chunk_id": "AccessControl.pdf_22",
+    "content": ". Both the Access Supplier and the Access Requester must be able to manage and consume the results of the authentication process. Challenge - Response The user might provide proof of this rightful usa...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 22,
+      "page": 6,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 835
+  },
+  {
+    "chunk_id": "AccessControl.pdf_23",
+    "content": ". It may not be sufficient to assure the rightful access because by sharing a password or by finding a password lying around (on a piece of paper, for instance), others may pretend to be the rightful ...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 23,
+      "page": 6,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 709
+  },
+  {
+    "chunk_id": "AccessControl.pdf_24",
+    "content": "Adding more proof of identity can be done by demandin g more specific and unique identifiers. These more trusted authentication means cannot be easily copied or easily shared or stolen (it is not impo...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 24,
+      "page": 7,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 954
+  },
+  {
+    "chunk_id": "AccessControl.pdf_25",
+    "content": ". Authorization Authorization, often a synonym for the phrase access control, is the next step in getting access after the pha se of authentication. It is the act of granting access to a specific reso...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 25,
+      "page": 7,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 909
+  },
+  {
+    "chunk_id": "AccessControl.pdf_26",
+    "content": ". Some of the tasks of the owner can be delegated to others in such a way that, for instance, a line manager may, within the boundaries set by the owner, grant read access to a resource to an employee...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 26,
+      "page": 7,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 903
+  },
+  {
+    "chunk_id": "AccessControl.pdf_27",
+    "content": ". If one of the many components is lacking SoD control, then the organization is not in control. This decentralized implementation of security policies makes it challenging to implement centrally mana...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 27,
+      "page": 7,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 386
+  },
+  {
+    "chunk_id": "AccessControl.pdf_28",
+    "content": "Modern Access Control In modern implementations of access control, a policy engine is used to evaluate access policies centrally, and policy enforcement should encompass the risk level evaluation. The...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 28,
+      "page": 8,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 959
+  },
+  {
+    "chunk_id": "AccessControl.pdf_29",
+    "content": ". Different stakeholders in a company are responsible for different policies. All applicable policies must be evaluated before access is granted. This method of fine -grained access control is a type ...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 29,
+      "page": 8,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 978
+  },
+  {
+    "chunk_id": "AccessControl.pdf_30",
+    "content": ". The existence of this register is essential to be truly in control of access. The same is true for the identification and authentication process. There must be assurance from the part of the login m...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 30,
+      "page": 8,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 924
+  },
+  {
+    "chunk_id": "AccessControl.pdf_31",
+    "content": ". User experience (UX) is a critical success factor in every information security p roject. If the security controls are too strict, users may be deterred, or they may try to circumvent the control. T...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 31,
+      "page": 8,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 426
+  },
+  {
+    "chunk_id": "AccessControl.pdf_32",
+    "content": "rates. Consumer Identity and Access Management (CIAM) solutions are developed to prevent this behavior. The lessons learned in CIAM are also being implemented in workfo rce IAM: UX is starting to make...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 32,
+      "page": 9,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 836
+  },
+  {
+    "chunk_id": "AccessControl.pdf_33",
+    "content": ". Legal Implications Acce ss control has historically been looked at as a way to support business processes and is part of a larger information security and risk mitigation policy. The question of leg...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 33,
+      "page": 9,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 943
+  },
+  {
+    "chunk_id": "AccessControl.pdf_34",
+    "content": ". In this way, questions about legal requirements and compliance implications can be addressed organically, allowing the organization the confidence it needs to operate and move forward. In separate a...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 34,
+      "page": 9,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 938
+  },
+  {
+    "chunk_id": "AccessControl.pdf_35",
+    "content": ". Based on the security level, security controls must be put in place to ensure the correct level of access. The access available, i.e., the permissions that can be granted, are also known as entitlem...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 35,
+      "page": 9,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 426
+  },
+  {
+    "chunk_id": "AccessControl.pdf_36",
+    "content": "write, update, delete, whatever the owner a ccepts as usage. This concept is easy to understand and easy to manage for individual objects. And if the number of objects is limited, controlling access v...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 36,
+      "page": 10,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 978
+  },
+  {
+    "chunk_id": "AccessControl.pdf_37",
+    "content": ". At some point, the issue of scale meant that a new access management approach was needed. RBAC is an approach of granting access to resources on a group level instead of on an individual level. In o...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 37,
+      "page": 10,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 953
+  },
+  {
+    "chunk_id": "AccessControl.pdf_38",
+    "content": ". In the example of an internal company website, every company employee is made a member of a group called Company Employees. The resource in this case, the main page of the internal website is secure...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 38,
+      "page": 10,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 983
+  },
+  {
+    "chunk_id": "AccessControl.pdf_39",
+    "content": ". In RBAC, we can identify a multilevel role model. On the one hand, we can identify the grouping of identities organizationally or hierarchically, defining organizational or business roles. On t he o...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 39,
+      "page": 10,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 269
+  },
+  {
+    "chunk_id": "AccessControl.pdf_40",
+    "content": "application function or platform level called system or application roles. Connecting organizational roles to application roles creates a very efficient way of granting and revoking authorizations. Bu...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 40,
+      "page": 11,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 850
+  },
+  {
+    "chunk_id": "AccessControl.pdf_41",
+    "content": ". This nesting can frustrate the insight by no small means; many IAM projects fail by the lack of un -nesting possibilities. Nesting also limits the auditability of RBAC environments; groups have to b...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 41,
+      "page": 11,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 996
+  },
+  {
+    "chunk_id": "AccessControl.pdf_42",
+    "content": ". To address this, ABAC expands on the model, taking into consideration different characteristics of users and users attributes at the moment of determining if access should be grante d. As a result, ...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 42,
+      "page": 11,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 917
+  },
+  {
+    "chunk_id": "AccessControl.pdf_43",
+    "content": ". For example: The Customer Relations Management process owner could define that everyone with the attribute Business Role  Account manager can access the resource only if attribute Allowed Time  defi...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 43,
+      "page": 11,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 555
+  },
+  {
+    "chunk_id": "AccessControl.pdf_44",
+    "content": "require changes. But people move between jobs, change devices, change loca tion, or get new tasks in a new context. Also, the risk level assigned to a protected resource can change because of a change...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 44,
+      "page": 12,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 949
+  },
+  {
+    "chunk_id": "AccessControl.pdf_45",
+    "content": ".  Enforcing end -user consent and control - developments like User -Managed Access (UMA). vii  Move to API -based access to micro -services - leading to new ac cess management architectures based on ...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 45,
+      "page": 12,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 977
+  },
+  {
+    "chunk_id": "AccessControl.pdf_46",
+    "content": ". In order to adapt to these session dynamics, authentication in itself should also be a continuous process through, for example, the new concept of behavioral biometrics. Examples of changing needs f...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 46,
+      "page": 12,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 736
+  },
+  {
+    "chunk_id": "AccessControl.pdf_47",
+    "content": "access to a resource. The factors that are used for user validation can depend on the risk associated with granting a particular user access and may inv olve adjusting the authentication strength base...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 47,
+      "page": 13,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 811
+  },
+  {
+    "chunk_id": "AccessControl.pdf_48",
+    "content": ". The dynamic nature of policy management and enforcement could require step -up authentication withi n a session to cater for the higher trust level needed if the defined risk controls require it. A ...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 48,
+      "page": 13,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 762
+  },
+  {
+    "chunk_id": "AccessControl.pdf_49",
+    "content": ". As an example: this person can access the Risk Management reports, but only if this person has the CRISC certificate. ISACA provides this certificate, so a lookup in the ISACA registry could answer ...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 49,
+      "page": 13,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 895
+  },
+  {
+    "chunk_id": "AccessControl.pdf_50",
+    "content": ". As a further nat ural development, AIAC and ReBAC have to be mentioned. Relation -Based Access Control A new concept in access control is ReBAC, or Relation -Based Access Control. ReBAC addresses th...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 50,
+      "page": 13,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 789
+  },
+  {
+    "chunk_id": "AccessControl.pdf_51",
+    "content": "The direction for ReBAC is not yet entirely clear, and the development is not mature enough for mainstream implementation. We foresee the potential for implementation as part of predictive role mining...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 51,
+      "page": 14,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 934
+  },
+  {
+    "chunk_id": "AccessControl.pdf_52",
+    "content": ". As such, it can be an addition to current RBAC and ABAC implementations. This concept is not yet mainstream, and we can hardly predict the direction, but AI and machine learning may add some value. ...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 52,
+      "page": 14,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 776
+  },
+  {
+    "chunk_id": "AccessControl.pdf_53",
+    "content": ". Several technological platforms have begun to spring up to fill this data ownership gap. Solutions like User -Managed Access, by Kantara Initiative, have made their way in the new access paradigms. ...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 53,
+      "page": 14,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 891
+  },
+  {
+    "chunk_id": "AccessControl.pdf_54",
+    "content": ". Modern access governance requires modern access control methods. There is a clear need for dynamic access control. Interestingly, the tools are becoming available, and implementation need not interf...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 54,
+      "page": 14,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 447
+  },
+  {
+    "chunk_id": "AccessControl.pdf_55",
+    "content": "Author Bio André Koot is IAM and Security Consultant at SonicBee. His IAM experience comes from a financial accounting and auditing background. This background of anti -fraud detection and prevention ...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 55,
+      "page": 15,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 846
+  },
+  {
+    "chunk_id": "AccessControl.pdf_56",
+    "content": ". ii Davis, Shannon, A Look at Discretionary Access Control, blog, TED Systems,  December  , https :www.tedsystems.comlook -at-discretionary -access -control (accessed November , ). iii Rouse, Margare...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 56,
+      "page": 15,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 929
+  },
+  {
+    "chunk_id": "AccessControl.pdf_57",
+    "content": ". vii Kantara Initiative, UMA Specifications, wiki page, last updated Jul ,  , https:kantara.atlassian.netwikispacesumapagesUMASpecifications (accessed  November ). viii ISACA home page, https:www.isa...",
+    "metadata": {
+      "source": "AccessControl.pdf",
+      "topic": "Control de Acceso",
+      "chunk_index": 57,
+      "page": 15,
+      "total_chunks": 59,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 404
+  },
+  {
+    "chunk_id": "Criptografia.pdf_0",
+    "content": "An Introduction to Cryptography By Mark Drummond (Empire Life)   IDPro, Mark Drummond To comment on this article, please visit our GitHub repository and submit an issue . Table of Contents ABSTRACT .....",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 0,
+      "page": 1,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 986
+  },
+  {
+    "chunk_id": "Criptografia.pdf_1",
+    "content": ". ................................ .....  SYMMETRIC KEY CRYPTOGRAPHY ................................ ................................ ................................ ...............  ASYMMETRIC KEY ...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 1,
+      "page": 1,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 975
+  },
+  {
+    "chunk_id": "Criptografia.pdf_2",
+    "content": ". ................................ .......  CONCLUSION ................................ ................................ ................................ ................................ ................",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 2,
+      "page": 1,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 975
+  },
+  {
+    "chunk_id": "Criptografia.pdf_3",
+    "content": ". ................................ ................................ ...........  AUTHOR BIO ................................ ................................ ................................ ............",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 3,
+      "page": 1,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 883
+  },
+  {
+    "chunk_id": "Criptografia.pdf_4",
+    "content": "Introduction Cryptography is the science and art of secret writing keeping information secret. (Garfinkel ) For almost as long as we have been writing, we have tried to write in secret. The use of cip...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 4,
+      "page": 2,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 923
+  },
+  {
+    "chunk_id": "Criptografia.pdf_5",
+    "content": ". He enlisted the help of Thomas Phelippes , a linguist and expert in ciphers, to decipher Marys letters. Phelippes was successful , and the content of the letters was revealed, making clear Marys inv...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 5,
+      "page": 2,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 997
+  },
+  {
+    "chunk_id": "Criptografia.pdf_6",
+    "content": ".  Integrity: preventing and detecting the unauthorized intentional or otherwise modification of data.  Authentication: positively identifying the parties to a communication and the source of data.  N...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 6,
+      "page": 2,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 454
+  },
+  {
+    "chunk_id": "Criptografia.pdf_7",
+    "content": "definitions. Terms such as encrypt and encipher are treated as synonyms. Readers should bear in mind that the technical literature on cryptography may use slightly different definitions. Term Synonyms...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 7,
+      "page": 3,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 901
+  },
+  {
+    "chunk_id": "Criptografia.pdf_8",
+    "content": "Decrypt Decipher To transform ciphertext into plaintext, rendering the data intelligible. Encrypt Encipher To transform plaintext into ciphertext, rendering the data unintelligible. Key Secret, secret...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 8,
+      "page": 4,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 751
+  },
+  {
+    "chunk_id": "Criptografia.pdf_9",
+    "content": "Ciphers and Keys  the secrecy of messages must depend upon a changeable key added to a sound basic cipher Gaines (Gaines ) All modern cryptosystems rely on a key, analogous to a password. The key adds...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 9,
+      "page": 5,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 894
+  },
+  {
+    "chunk_id": "Criptografia.pdf_10",
+    "content": ". (Garfinkel) Symmetric key cryptography uses a single key to encrypt and decrypt messages: Figure : Symmetric Key Cryptography ( MarcTK (icons by JGraph), CC BY -SA . , via Wikimedia Commons Consider...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 10,
+      "page": 5,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 382
+  },
+  {
+    "chunk_id": "Criptografia.pdf_11",
+    "content": ". Eve may intercept the message, but she must perform cryptanalysis to reveal its contents. Symmetric cryptosystems are relatively simple and usually very fast for both encryption and decryption, but ...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 11,
+      "page": 6,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 984
+  },
+  {
+    "chunk_id": "Criptografia.pdf_12",
+    "content": ". They are computationally efficient and, in an order of magnitude , more efficient than the asymmetric ciphers we discuss below. You can encrypt large amounts of data in comparatively little time. Th...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 12,
+      "page": 6,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 987
+  },
+  {
+    "chunk_id": "Criptografia.pdf_13",
+    "content": "In this way, Alice and Bob can securely and confidently exchange physical objects without having to share a single lockbox key. Because Alice and Bob have their own personal keys that are not shared, ...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 13,
+      "page": 7,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 984
+  },
+  {
+    "chunk_id": "Criptografia.pdf_14",
+    "content": ". Asymmetric key cryptosystems are the foundation of cryptography on the Internet today. Every time you visit a secure HTTPS website, asymmetric key cryptography secures the connection. The pair of ke...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 14,
+      "page": 7,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 898
+  },
+  {
+    "chunk_id": "Criptografia.pdf_15",
+    "content": "Figure : Asymmetric Key Cryptography (Davidgothberg, Public domain, via Wikimedia Commons ) Another useful operation made possible with asymmetric key cryptography is message signing. Alice can use he...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 15,
+      "page": 8,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 808
+  },
+  {
+    "chunk_id": "Criptografia.pdf_16",
+    "content": "As a result, Alice has communicated securely with Bob, and Bob knows he can trust the message. If this all seems too good to be true, fear not, theres a downside! Public key encryption and signing are...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 16,
+      "page": 9,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 803
+  },
+  {
+    "chunk_id": "Criptografia.pdf_17",
+    "content": ". Conclusion Understanding cryptography is fundamental to understanding information security, and central to information security is digital identity. While it is not necessary for most identity pract...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 17,
+      "page": 9,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 953
+  },
+  {
+    "chunk_id": "Criptografia.pdf_18",
+    "content": "Technical Resources  For a comprehensive technical dive into cryptography, consider Bruce Schneiers Applied Cryptography  (Schneier ).  For an introduction to practical cryptanalysis, read Helen F. Ga...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 18,
+      "page": 10,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 982
+  },
+  {
+    "chunk_id": "Criptografia.pdf_19",
+    "content": ". Ninth edition . Hoboken, NJ: John Wiley  Sons, Inc., . Diffie, W., and M. Hellman. New Directions in Cryptography.  IEEE Transactions on Information Theory , no.  ():  . Gaines, Helen F. Cryptanalys...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 19,
+      "page": 10,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 473
+  },
+  {
+    "chunk_id": "Criptografia.pdf_20",
+    "content": "Kahn, David. The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet . Simon and Schuster, . Kerckhoffs, Auguste. La Cryptographie Militaire. Journal des...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 20,
+      "page": 11,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 978
+  },
+  {
+    "chunk_id": "Criptografia.pdf_21",
+    "content": ".  Please note, this is not actually a password. It is not being used to authenticate someone.  It is traditional to use the characters Alice, Bob, Eve, and others when describing cryptographic system...",
+    "metadata": {
+      "source": "Criptografia.pdf",
+      "topic": "Criptografía y Seguridad",
+      "chunk_index": 21,
+      "page": 11,
+      "total_chunks": 22,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 664
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_0",
+    "content": "An Introduction to OpenID Connect By Anoop Gupta (Capital One)   IDPro, Anoop Gupta To comment on this article, please visit our GitHub repository and submit an issue . Table of Contents ABSTRACT .......",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 0,
+      "page": 1,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 996
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_1",
+    "content": ". ................................ ................................ ................................ ................................ ................................ ...... TOKENS ......................",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 1,
+      "page": 1,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 986
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_2",
+    "content": ".  USERINFO ENDPOINT ................................ ................................ ................................ ................................ ................................ .  ACCESS AND ...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 2,
+      "page": 1,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 991
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_3",
+    "content": ". ENHANCED DECISION -MAKING ................................ ................................ ................................ ................................ ................................ ..........",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 3,
+      "page": 1,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 998
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_4",
+    "content": ". ................................ ................................ ................................ ................................ ....................  DYNAMIC CLIENT REGISTRATION ...................",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 4,
+      "page": 1,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 982
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_5",
+    "content": ". ................................ ................................ ................................ .............  ADDITIONAL READING ................................ ...................................",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 5,
+      "page": 1,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 674
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_6",
+    "content": "This article delves into the process of OpenID Providers (OP) connecting with federated Identity Providers ( IDPs) to authenticate users, which facilitates the retrieval of user claims that can be ret...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 6,
+      "page": 2,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 273
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_7",
+    "content": "About OpenID Connect OpenID Connect (OIDC) is a framework that facilitates the creation of a secure Internet identity ecosystem.i It provides seamless integration and robust support while prioritizing...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 7,
+      "page": 3,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 971
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_8",
+    "content": ". OpenID Connect does not define how OPs integrate with federated IDPs. Such integrations are left to the implementation details of the OP. The OP may act as a bridge in these cases , using proprietar...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 8,
+      "page": 3,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 996
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_9",
+    "content": ". Bertrand Carlier's article \" An Introduction to OAuth . \" in the IDPro Body of Knowledge provides a comprehensive overview of OAuth . and touches on OIDC. It is a valuable starting point for underst...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 9,
+      "page": 3,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 670
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_10",
+    "content": "The OIDC specification allows RPs to access more detailed user information through the UserInfo endpoint, a protected resource in the OAuth . framework. During the authentication process, RPs can requ...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 10,
+      "page": 4,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 899
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_11",
+    "content": ". They provide a way to manage access, adding or removing privileges while security remain s tight. Identity Providers (IdPs): The key to secure digital access. OAuth . The OAuth . authorization frame...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 11,
+      "page": 4,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 858
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_12",
+    "content": ". An Introduction to OAuth. OpenID Connect OpenID Connect is a simple identity layer on top of the OAuth . protocol. It enables Clients to verify the identity of the End -User based on the authenticat...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 12,
+      "page": 4,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 507
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_13",
+    "content": ". protocols, OP's can sometimes be referred to by the role it plays, such as: an identity provider (IDP), or an authorization server, or a security token service. Resource Server The server hosting th...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 13,
+      "page": 5,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 903
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_14",
+    "content": ". We will use the more common Relying Party (or RP). An RP roughly corresponds to the Agency Endpoint in the FICAM model or to Identity Consumers in the Internet model. IAM Reference Architecture Clie...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 14,
+      "page": 5,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 829
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_15",
+    "content": ". Authorization Code Issuance: After successful authentication, the Authorization Server issues an Authorization Code to the RP. . Token Exchange: The RP exchanges the Authorization Code for tokens vi...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 15,
+      "page": 6,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 783
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_16",
+    "content": ". PKCE mitigates interception attacks by binding the authorization request to the token exchange process.vii ID Token The ID Token is a critical element of OpenID Connect, designed to securely communi...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 16,
+      "page": 6,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 894
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_17",
+    "content": ". RPs should validate the expiration (exp) claim in tokens before processing them. UserInfo Endpoint The UserInfo endpoint is a key feature of OIDC , enabling RPs to retrieve additional user claims be...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 17,
+      "page": 6,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 629
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_18",
+    "content": "Access and Authorization The UserInfo endpoint requires an Access Token, issued by the Authorization Server during the authorization process, to authenticate and authorize requests. The claims availab...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 18,
+      "page": 7,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 900
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_19",
+    "content": ". Not all claims in the ID Token are guaranteed to be available via the UserInfo endpoint. This separation ensures flexibility while adhering to privacy and security considerations. Data Security To e...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 19,
+      "page": 7,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 886
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_20",
+    "content": ". OIDC Flow OIDC provides a secure framework for authenticating users and exchanging identity information between RPs and OPs In some cases, the OP may delegate authentication to an external IDP. The ...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 20,
+      "page": 7,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 382
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_21",
+    "content": ". The Authorization Server initiates a new OIDC flow with the federated IDP, providing user authentication, and claims. The login screen is not rendered on the federated IdP if the user has already be...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 21,
+      "page": 8,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 926
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_22",
+    "content": ". . The RP can optionally call the UserInfo endpoint on the Authorization Server to retrieve additional user claims. . The RP presents the access token to the Authorization Server. . The Authorization...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 22,
+      "page": 8,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 951
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_23",
+    "content": ". RPs must handle these errors gracefully to provide feedback to the user. By following this structured flow, OIDC ensures secure and reliable authentication while providing a flexible mechanism for r...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 23,
+      "page": 8,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 312
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_24",
+    "content": "Figure : OAuth . and OpenID Connect flow Logout OIDC supports RP -initiated and back -channel logout mechanisms. However, the implementation of these protocols varies among OPs. RPs should consult the...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 24,
+      "page": 9,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 897
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_25",
+    "content": "Some OPs also support Single Logout (SLO), enabling simultaneous session termination across multiple RPs. RPs should review the OP's metadata to determine the supported logout methods and endpoints. I...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 25,
+      "page": 10,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 991
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_26",
+    "content": ".  Supported Grant Types: Information on flows like authorization code and implicit.  Cryptographic Algorithms: Supported methods for signing and encrypting tokens.  Scopes and Claims: Available scope...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 26,
+      "page": 10,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 934
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_27",
+    "content": ".  Enhances interoperability between systems.  Improves security by ensuring that the RP operates with accurate, up -to-date information. Best Practices RPs should periodically validate the informatio...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 27,
+      "page": 10,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 384
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_28",
+    "content": "The discovery mechanism is a cornerstone of OIDC's flexibility, enabling a wide range of applications to integrate quickly and securely with OpenID Providers. Beyond The Introduction In addition to wh...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 28,
+      "page": 11,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 893
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_29",
+    "content": ". . M. Jones, \"JSON Web Key \", RFC , DOI .RFC, May , https:www.rfc -editor.orginforfc  . Jones, M. and D. Hardt, \"The OAuth . Authorization Framework: Bearer Token Usage \", RFC , DOI .RFC, October , h...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 29,
+      "page": 11,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 807
+  },
+  {
+    "chunk_id": "OpenIDC.pdf_30",
+    "content": "iv Bertocci, V., \"JSON Web Token (JWT) Profile for OAuth . Access Tokens\", RFC , DOI .RFC, October , https:www.rfc -editor.orginforfc. v Jones, M., Bradley, J., and N. Sakimura, \"JSON Web Token (JWT)\"...",
+    "metadata": {
+      "source": "OpenIDC.pdf",
+      "topic": "OpenID Connect",
+      "chunk_index": 30,
+      "page": 12,
+      "total_chunks": 31,
+      "document_type": "IAM_Documentation"
+    },
+    "content_length": 827
+  }
+]

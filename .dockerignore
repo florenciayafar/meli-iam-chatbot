@@ -1,0 +1,40 @@
+# MeLi IAM Challenge - Docker Ignore
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Pytest cache
+.pytest_cache/
+.coverage
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Documentation (not needed in container)
+*.md
+
+# Environment files (use docker-compose env)
+.env
+
+# Temporary files
+tmp/
+temp/
